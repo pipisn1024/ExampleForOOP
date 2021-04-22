@@ -21,8 +21,8 @@ class Car
     protected void ShowSpec()
     {
         Console.WriteLine("品牌: {0}\t型號: {1}\t變速系統: {2}\t引擎排氣量: {3}\t輪胎數: {4}\t車門數: {5}",
-                            this.brand, this.model, this.transmissionType, this.engineDisplacement,
-                            this.wheels, this.doors);
+                          this.brand, this.model, this.transmissionType, this.engineDisplacement,
+                          this.wheels, this.doors);
     }
 }
 
