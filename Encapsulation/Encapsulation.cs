@@ -6,6 +6,7 @@
  */
 
 using System;
+
 // 定義Car類別
 class Car
 {
