@@ -7,7 +7,6 @@
 
 using System;
 
-
 // 父類別-車
 class Car
 {
